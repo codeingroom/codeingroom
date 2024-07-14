@@ -89,6 +89,6 @@ Feel free to explore my repositories and get in touch for any collaboration or f
 
 ---
 
-![Bhanu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=codeingroom&show_icons=true&theme=radical)
+![Bhanu Pratap Singh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=codeingroom&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeingroom&layout=compact&theme=radical)
